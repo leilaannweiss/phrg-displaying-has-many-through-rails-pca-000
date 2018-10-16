@@ -171,4 +171,7 @@ Because we've set up a join model, the interface will look almost identical. We 
 
 Displaying data via a `has_many, through` relationship looks identical to displaying data through a normal relationship. That's the beauty of abstraction –– all of the details about how our models are associated with each other get abstracted away, and we can focus simply on the presentation.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-displaying-has-many-through-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-displaying-has-many-through-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Displaying Has Many Through Rails</p>
